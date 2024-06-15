@@ -5,6 +5,7 @@ int main()
 {
 
     // MULTISET IS USED TO STORE SORTED VALUES
+    // IT CAN STORE SAME VALUE
 
     multiset<int> ms;
     ms.insert(1); // {1}
